@@ -6,12 +6,11 @@
    <elementGuidId>3944dcdf-fad8-4aa2-8d4d-265f6d4c242b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//span[text()='shirts for men']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//span[text()='Clothing, Shoes &amp; Jewelry'] </value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
